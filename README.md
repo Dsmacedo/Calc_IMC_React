@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 CACULADORA IMC COM REACT
-LINK DO PROJETO: https://calcimc-five.vercel.app/
+LINK DO PROJETO: https://calc-imc-react-peach.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
